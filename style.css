@@ -1,0 +1,74 @@
+@media only screen and (max-width: 480px ){
+
+}
+@media only screen and (max-width: 411px ){
+	.container img{
+		height: 50%;
+		width: 100%;
+	}
+	.slide{
+		display: none;
+	}
+	#duan img{
+		margin-top:20px; 
+		margin-right: 0px; 
+	}
+	.chart{
+		height: 50%;
+		width: 100%;
+	}
+	
+}
+
+.bg-grey {
+      background-color: #f6f6f6;
+  }
+ 
+  .bg-1 { 
+      background-color: #1abc9c;
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff;
+      color: #555555;
+  }
+  #gioithieu{
+  	padding-top: 100px;	
+  	padding-bottom: 100px;
+  }
+
+
+  #contact{
+  		
+  	background-image: url('./image/a.jpg');
+  }
+  #diachi{
+  	padding-top: 100px;	
+  	
+  }
+
+  #skill{
+  	padding-top: 100px;	
+  	padding-bottom: 50px;
+  }
+  #gioithieu{
+  	padding-top: 100px;	
+  	padding-bottom: 100px;
+  }
+  body {
+      position: relative; 
+  }
+  .swiper-container {
+      width: 500px;
+      height: 300px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      margin-left: -150px;
+      margin-top: -150px;
+    }
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+    }
+
